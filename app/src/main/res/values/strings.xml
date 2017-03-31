@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Radiobutton</string>
+    <string name="titulo">VENTA DE PRODUCTOS</string>
+    <string name="tv">Televisor</string>
+    <string name="radio">Radio</string>
+    <string name="des">Aplicar descuento del 10%</string>
+    <string name="calc">Calcular</string>
+    <string name="precioTv">100000</string>
+    <string name="precioRadio">120000</string>
+</resources>
